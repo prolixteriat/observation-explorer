@@ -1,0 +1,16 @@
+Click on Map to Show Nearby Records:
+===================================
+
+Stages:
+
+Stage 1 - Get coords of click on map.
+
+Stage 2 - Retrieve UIDs of nearby records:
+https://records-ws.nbnatlas.org/occurrences/info?q=*%3A*&fq=species_group:*&fq=taxon_name:*&zoom=12&lat=53.24602166535579&lon=-2.892547845840454&radius=0.15&format=json
+
+Note that the value of radius arg is zoom-dependent.
+
+Stage 3 - Retrieve details of a single record from its UID:
+https://records-ws.nbnatlas.org/occurrences/a4763e34-9983-4c69-8d43-a28ab7f616f3.json
+
+Stage 4 - Display record details.

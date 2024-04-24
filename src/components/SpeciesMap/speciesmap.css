@@ -1,0 +1,4 @@
+/* Allows explicit setting of mouse cursor over map. */
+.leaflet-container.pointer-cursor-enabled {
+    cursor: pointer;
+}

@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "uk",
+    "name": "UK",
+    "llat": 49.41741,
+    "llon": -10.78057,
+    "ulat": 60.944757,
+    "ulon": 3.191813
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "llat": 49.86463626,
+    "llon": -6.418941851,
+    "ulat": 55.81165983,
+    "ulon": 1.76891206
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "llat": 54.63323825,
+    "llon": -8.650007223,
+    "ulat": 60.86076643,
+    "ulon": -0.72444378
+  },
+  {
+    "id": "wales",
+    "name": "Wales",
+    "llat": 51.37455549,
+    "llon": -5.670302507,
+    "ulat": 53.43579638,
+    "ulon": -2.649864537
+  },
+  {
+    "id": "highland",
+    "name": "Scottish Highlands",
+    "llat": 56.359413,
+    "llon": -6.963131,
+    "ulat": 58.785299,
+    "ulon": -2.768419
+  },
+  {
+    "id": "sco-mainland",
+    "name": "Scottish Mainland",
+    "llat": 54.568023,
+    "llon": -6.595661,
+    "ulat": 58.713805,
+    "ulon": -1.583559
+  },
+  {
+    "id": "outer-heb",
+    "name": "Outer Hebrides",
+    "llat": 56.643304,
+    "llon": -8.665328,
+    "ulat": 58.590697,
+    "ulon": -6.068443
+  },
+  {
+    "id": 1,
+    "name": "West Cornwall with Scilly",
+    "llat": 49.81508,
+    "llon": -6.49567,
+    "ulat": 50.60147,
+    "ulon": -4.83525
+  },
+  {
+    "id": 2,
+    "name": "East Cornwall",
+    "llat": 50.09006,
+    "llon": -5.04884,
+    "ulat": 50.9486,
+    "ulon": -4.15307
+  },
+  {
+    "id": 3,
+    "name": "South Devon",
+    "llat": 50.15148,
+    "llon": -4.28145,
+    "ulat": 50.97002,
+    "ulon": -2.92355
+  },
+  {
+    "id": 4,
+    "name": "North Devon",
+    "llat": 50.57499,
+    "llon": -4.76035,
+    "ulat": 51.29681,
+    "ulon": -3.31607
+  },
+  {
+    "id": 5,
+    "name": "South Somerset",
+    "llat": 50.82065,
+    "llon": -3.8398,
+    "ulat": 51.28479,
+    "ulon": -2.32963
+  },
+  {
+    "id": 6,
+    "name": "North Somerset",
+    "llat": 51.00271,
+    "llon": -3.18415,
+    "ulat": 51.51988,
+    "ulon": -2.2444
+  },
+  {
+    "id": 7,
+    "name": "North Wiltshire",
+    "llat": 51.33367,
+    "llon": -2.32931,
+    "ulat": 51.70621,
+    "ulon": -1.50931
+  },
+  {
+    "id": 8,
+    "name": "South Wiltshire",
+    "llat": 50.91726,
+    "llon": -2.36346,
+    "ulat": 51.41432,
+    "ulon": -1.48573
+  },
+  {
+    "id": 9,
+    "name": "Dorset",
+    "llat": 50.46288,
+    "llon": -3.05968,
+    "ulat": 51.081,
+    "ulon": -1.81055
+  },
+  {
+    "id": 10,
+    "name": "Isle of Wight",
+    "llat": 50.52476,
+    "llon": -1.68062,
+    "ulat": 50.79174,
+    "ulon": -0.9841
+  },
+  {
+    "id": 11,
+    "name": "South Hampshire",
+    "llat": 50.65467,
+    "llon": -1.91619,
+    "ulat": 51.11828,
+    "ulon": -0.89336
+  },
+  {
+    "id": 12,
+    "name": "North Hampshire",
+    "llat": 51.00668,
+    "llon": -1.69946,
+    "ulat": 51.37309,
+    "ulon": -0.72934
+  },
+  {
+    "id": 13,
+    "name": "West Sussex",
+    "llat": 50.67221,
+    "llon": -0.98098,
+    "ulat": 51.14312,
+    "ulon": -0.13497
+  },
+  {
+    "id": 14,
+    "name": "East Sussex",
+    "llat": 50.68368,
+    "llon": -0.20417,
+    "ulat": 51.14746,
+    "ulon": 0.83488
+  },
+  {
+    "id": 15,
+    "name": "East Kent",
+    "llat": 50.86059,
+    "llon": 0.4137,
+    "ulat": 51.48763,
+    "ulon": 1.5315
+  },
+  {
+    "id": 16,
+    "name": "West Kent",
+    "llat": 51.02464,
+    "llon": -0.07509,
+    "ulat": 51.51976,
+    "ulon": 0.78912
+  },
+  {
+    "id": 17,
+    "name": "Surrey",
+    "llat": 51.07285,
+    "llon": -0.84893,
+    "ulat": 51.50986,
+    "ulon": 0.05822
+  },
+  {
+    "id": 18,
+    "name": "South Essex",
+    "llat": 51.44828,
+    "llon": -0.06111,
+    "ulat": 51.75979,
+    "ulon": 1.17119
+  },
+  {
+    "id": 19,
+    "name": "North Essex",
+    "llat": 51.67523,
+    "llon": -0.02123,
+    "ulat": 52.09518,
+    "ulon": 1.37382
+  },
+  {
+    "id": 20,
+    "name": "Hertfordshire",
+    "llat": 51.59958,
+    "llon": -0.74579,
+    "ulat": 52.08054,
+    "ulon": 0.2081
+  },
+  {
+    "id": 21,
+    "name": "Middlesex",
+    "llat": 51.37841,
+    "llon": -0.53548,
+    "ulat": 51.71372,
+    "ulon": 0.00991
+  },
+  {
+    "id": 22,
+    "name": "Berkshire",
+    "llat": 51.33194,
+    "llon": -1.71934,
+    "ulat": 51.79011,
+    "ulon": -0.56253
+  },
+  {
+    "id": 23,
+    "name": "Oxfordshire",
+    "llat": 51.45941,
+    "llon": -1.7195,
+    "ulat": 52.16847,
+    "ulon": -0.84566
+  },
+  {
+    "id": 24,
+    "name": "Buckinghamshire",
+    "llat": 51.43472,
+    "llon": -1.14924,
+    "ulat": 52.19632,
+    "ulon": -0.47662
+  },
+  {
+    "id": 25,
+    "name": "East Suffolk",
+    "llat": 51.87263,
+    "llon": 0.99723,
+    "ulat": 52.61227,
+    "ulon": 1.84478
+  },
+  {
+    "id": 26,
+    "name": "West Suffolk",
+    "llat": 51.96068,
+    "llon": 0.33997,
+    "ulat": 52.46249,
+    "ulon": 0.99919
+  },
+  {
+    "id": 27,
+    "name": "East Norfolk",
+    "llat": 52.35534,
+    "llon": 0.99725,
+    "ulat": 53.03042,
+    "ulon": 1.82614
+  },
+  {
+    "id": 28,
+    "name": "West Norfolk",
+    "llat": 52.3695,
+    "llon": 0.14335,
+    "ulat": 53.04216,
+    "ulon": 0.99882
+  },
+  {
+    "id": 29,
+    "name": "Cambridgeshire",
+    "llat": 52.01951,
+    "llon": -0.26727,
+    "ulat": 52.74499,
+    "ulon": 0.51445
+  },
+  {
+    "id": 30,
+    "name": "Bedfordshire",
+    "llat": 51.82833,
+    "llon": -0.683,
+    "ulat": 52.3385,
+    "ulon": -0.14396
+  },
+  {
+    "id": 31,
+    "name": "Huntingdonshire",
+    "llat": 52.15896,
+    "llon": -0.49991,
+    "ulat": 52.58328,
+    "ulon": 0.05146
+  },
+  {
+    "id": 32,
+    "name": "Northamptonshire",
+    "llat": 51.97727,
+    "llon": -1.34549,
+    "ulat": 52.67508,
+    "ulon": -0.14155
+  },
+  {
+    "id": 33,
+    "name": "East Gloucestershire",
+    "llat": 51.64886,
+    "llon": -2.36321,
+    "ulat": 52.17928,
+    "ulon": -1.6152
+  },
+  {
+    "id": 34,
+    "name": "West Gloucestershire",
+    "llat": 51.4159,
+    "llon": -2.7414,
+    "ulat": 52.02388,
+    "ulon": -2.02144
+  },
+  {
+    "id": 35,
+    "name": "Monmouthshire",
+    "llat": 51.40373,
+    "llon": -3.29484,
+    "ulat": 51.98314,
+    "ulon": -2.6498
+  },
+  {
+    "id": 36,
+    "name": "Herefordshire",
+    "llat": 51.82594,
+    "llon": -3.14192,
+    "ulat": 52.39549,
+    "ulon": -2.33797
+  },
+  {
+    "id": 37,
+    "name": "Worcestershire",
+    "llat": 51.94577,
+    "llon": -2.66321,
+    "ulat": 52.513,
+    "ulon": -1.77179
+  },
+  {
+    "id": 38,
+    "name": "Warwickshire",
+    "llat": 51.95539,
+    "llon": -1.9692,
+    "ulat": 52.68724,
+    "ulon": -1.17214
+  },
+  {
+    "id": 39,
+    "name": "Staffordshire",
+    "llat": 52.39317,
+    "llon": -2.49625,
+    "ulat": 53.22622,
+    "ulon": -1.58629
+  },
+  {
+    "id": 40,
+    "name": "Shropshire",
+    "llat": 52.30626,
+    "llon": -3.23557,
+    "ulat": 52.99839,
+    "ulon": -2.2329
+  },
+  {
+    "id": 41,
+    "name": "Glamorganshire",
+    "llat": 51.3173,
+    "llon": -4.4139,
+    "ulat": 51.81034,
+    "ulon": -3.06467
+  },
+  {
+    "id": 42,
+    "name": "Breconshire",
+    "llat": 51.73388,
+    "llon": -3.80852,
+    "ulat": 52.28994,
+    "ulon": -3.03859
+  },
+  {
+    "id": 43,
+    "name": "Radnorshire",
+    "llat": 52.03251,
+    "llon": -3.74496,
+    "ulat": 52.46375,
+    "ulon": -2.94962
+  },
+  {
+    "id": 44,
+    "name": "Carmarthenshire",
+    "llat": 51.6153,
+    "llon": -4.78237,
+    "ulat": 52.1424,
+    "ulon": -3.64712
+  },
+  {
+    "id": 45,
+    "name": "Pembrokeshire",
+    "llat": 51.54618,
+    "llon": -5.75062,
+    "ulat": 52.16642,
+    "ulon": -4.48552
+  },
+  {
+    "id": 46,
+    "name": "Cardiganshire",
+    "llat": 52.0267,
+    "llon": -4.7549,
+    "ulat": 52.56243,
+    "ulon": -3.65817
+  },
+  {
+    "id": 47,
+    "name": "Montgomeryshire",
+    "llat": 52.3549,
+    "llon": -3.92935,
+    "ulat": 52.8761,
+    "ulon": -2.96106
+  },
+  {
+    "id": 48,
+    "name": "Merionethshire",
+    "llat": 52.53443,
+    "llon": -4.26481,
+    "ulat": 53.05114,
+    "ulon": -3.21651
+  },
+  {
+    "id": 49,
+    "name": "Caernarvonshire",
+    "llat": 52.69502,
+    "llon": -4.88658,
+    "ulat": 53.39309,
+    "ulon": -3.69276
+  },
+  {
+    "id": 50,
+    "name": "Denbighshire",
+    "llat": 52.78487,
+    "llon": -3.83397,
+    "ulat": 53.37726,
+    "ulon": -2.72414
+  },
+  {
+    "id": 51,
+    "name": "Flintshire",
+    "llat": 53.05614,
+    "llon": -3.53507,
+    "ulat": 53.42427,
+    "ulon": -2.92028
+  },
+  {
+    "id": 52,
+    "name": "Anglesey",
+    "llat": 53.08014,
+    "llon": -4.78349,
+    "ulat": 53.4856,
+    "ulon": -3.95765
+  },
+  {
+    "id": 53,
+    "name": "South Lincolnshire",
+    "llat": 52.63028,
+    "llon": -0.80432,
+    "ulat": 53.25811,
+    "ulon": 0.43638
+  },
+  {
+    "id": 54,
+    "name": "North Lincolnshire",
+    "llat": 52.93037,
+    "llon": -0.95869,
+    "ulat": 53.72848,
+    "ulon": 0.44104
+  },
+  {
+    "id": 55,
+    "name": "Leicestershire (with Rutland)",
+    "llat": 52.39215,
+    "llon": -1.61743,
+    "ulat": 52.97759,
+    "ulon": -0.42838
+  },
+  {
+    "id": 56,
+    "name": "Nottinghamshire",
+    "llat": 52.78105,
+    "llon": -1.34459,
+    "ulat": 53.50856,
+    "ulon": -0.61147
+  },
+  {
+    "id": 57,
+    "name": "Derbyshire",
+    "llat": 52.69834,
+    "llon": -2.05943,
+    "ulat": 53.49567,
+    "ulon": -1.16649
+  },
+  {
+    "id": 58,
+    "name": "Cheshire",
+    "llat": 52.93077,
+    "llon": -3.29517,
+    "ulat": 53.54045,
+    "ulon": -1.79492
+  },
+  {
+    "id": 59,
+    "name": "South Lancashire",
+    "llat": 53.31461,
+    "llon": -3.23759,
+    "ulat": 53.90607,
+    "ulon": -2.00754
+  },
+  {
+    "id": 60,
+    "name": "West Lancashire",
+    "llat": 53.7083,
+    "llon": -3.23183,
+    "ulat": 54.23956,
+    "ulon": -2.44127
+  },
+  {
+    "id": 61,
+    "name": "South-east Yorkshire",
+    "llat": 53.54113,
+    "llon": -1.13403,
+    "ulat": 54.26472,
+    "ulon": 0.23323
+  },
+  {
+    "id": 62,
+    "name": "North-east Yorkshire",
+    "llat": 53.93777,
+    "llon": -1.49839,
+    "ulat": 54.67614,
+    "ulon": -0.23633
+  },
+  {
+    "id": 63,
+    "name": "South-west Yorkshire",
+    "llat": 53.30155,
+    "llon": -2.18127,
+    "ulat": 53.98782,
+    "ulon": -0.69413
+  },
+  {
+    "id": 64,
+    "name": "Mid-west Yorkshire",
+    "llat": 53.69386,
+    "llon": -2.64988,
+    "ulat": 54.25714,
+    "ulon": -0.90338
+  },
+  {
+    "id": 65,
+    "name": "North-west Yorkshire",
+    "llat": 54.09017,
+    "llon": -2.58844,
+    "ulat": 54.66354,
+    "ulon": -1.33201
+  },
+  {
+    "id": 66,
+    "name": "County Durham",
+    "llat": 54.45113,
+    "llon": -2.35574,
+    "ulat": 55.02491,
+    "ulon": -1.0657
+  },
+  {
+    "id": 67,
+    "name": "South Northumberland",
+    "llat": 54.78237,
+    "llon": -2.68978,
+    "ulat": 55.36792,
+    "ulon": -1.31801
+  },
+  {
+    "id": 68,
+    "name": "North Northumberland",
+    "llat": 55.27817,
+    "llon": -2.34623,
+    "ulat": 55.84087,
+    "ulon": -1.44966
+  },
+  {
+    "id": 69,
+    "name": "Westmorland (with Furness)",
+    "llat": 53.99161,
+    "llon": -3.41459,
+    "ulat": 54.70728,
+    "ulon": -2.15902
+  },
+  {
+    "id": 70,
+    "name": "Cumberland",
+    "llat": 54.15285,
+    "llon": -3.72607,
+    "ulat": 55.18898,
+    "ulon": -2.30844
+  },
+  {
+    "id": 71,
+    "name": "Isle of Man",
+    "llat": 53.99335,
+    "llon": -4.91544,
+    "ulat": 54.4686,
+    "ulon": -4.22219
+  },
+  {
+    "id": 72,
+    "name": "Dumfriesshire",
+    "llat": 54.88322,
+    "llon": -4.1225,
+    "ulat": 55.46405,
+    "ulon": -2.85733
+  },
+  {
+    "id": 73,
+    "name": "Kirkudbrightshire",
+    "llat": 54.71348,
+    "llon": -4.66361,
+    "ulat": 55.32292,
+    "ulon": -3.50831
+  },
+  {
+    "id": 74,
+    "name": "Wigtownshire",
+    "llat": 54.58333,
+    "llon": -5.27438,
+    "ulat": 55.06528,
+    "ulon": -4.15733
+  },
+  {
+    "id": 75,
+    "name": "Ayrshire",
+    "llat": 54.99466,
+    "llon": -5.13884,
+    "ulat": 55.89261,
+    "ulon": -3.95706
+  },
+  {
+    "id": 76,
+    "name": "Renfrewshire",
+    "llat": 55.6758,
+    "llon": -4.9295,
+    "ulat": 55.97403,
+    "ulon": -4.21876
+  },
+  {
+    "id": 77,
+    "name": "Lanarkshire",
+    "llat": 55.29077,
+    "llon": -4.38048,
+    "ulat": 55.94133,
+    "ulon": -3.39641
+  },
+  {
+    "id": 78,
+    "name": "Peebleshire",
+    "llat": 55.40375,
+    "llon": -3.5398,
+    "ulat": 55.82411,
+    "ulon": -2.97005
+  },
+  {
+    "id": 79,
+    "name": "Selkirkshire",
+    "llat": 55.34221,
+    "llon": -3.32026,
+    "ulat": 55.69344,
+    "ulon": -2.7767
+  },
+  {
+    "id": 80,
+    "name": "Roxburghshire",
+    "llat": 55.10834,
+    "llon": -3.11363,
+    "ulat": 55.70533,
+    "ulon": -2.16551
+  },
+  {
+    "id": 81,
+    "name": "Berwickshire",
+    "llat": 55.56666,
+    "llon": -2.91221,
+    "ulat": 55.97877,
+    "ulon": -1.95883
+  },
+  {
+    "id": 82,
+    "name": "East Lothian",
+    "llat": 55.77988,
+    "llon": -3.05521,
+    "ulat": 56.12387,
+    "ulon": -2.17993
+  },
+  {
+    "id": 83,
+    "name": "Midlothian",
+    "llat": 55.64478,
+    "llon": -3.74408,
+    "ulat": 56.03352,
+    "ulon": -2.82269
+  },
+  {
+    "id": 84,
+    "name": "Linlithgow",
+    "llat": 55.81449,
+    "llon": -3.83126,
+    "ulat": 56.03457,
+    "ulon": -3.28863
+  },
+  {
+    "id": 85,
+    "name": "Fifeshire",
+    "llat": 55.99743,
+    "llon": -3.66395,
+    "ulat": 56.45935,
+    "ulon": -2.45474
+  },
+  {
+    "id": 86,
+    "name": "Stirlingshire",
+    "llat": 55.8954,
+    "llon": -4.70148,
+    "ulat": 56.30252,
+    "ulon": -3.61135
+  },
+  {
+    "id": 87,
+    "name": "West Perthshire",
+    "llat": 56.03094,
+    "llon": -4.8545,
+    "ulat": 56.4062,
+    "ulon": -3.4847
+  },
+  {
+    "id": 88,
+    "name": "Mid Perthshire",
+    "llat": 56.23092,
+    "llon": -4.81738,
+    "ulat": 56.83227,
+    "ulon": -3.23382
+  },
+  {
+    "id": 89,
+    "name": "East Perthshire",
+    "llat": 56.35464,
+    "llon": -4.33254,
+    "ulat": 56.94863,
+    "ulon": -3.03891
+  },
+  {
+    "id": 90,
+    "name": "Angus",
+    "llat": 56.43427,
+    "llon": -3.40702,
+    "ulat": 56.98682,
+    "ulon": -2.33916
+  },
+  {
+    "id": 91,
+    "name": "Kincardineshire",
+    "llat": 56.7271,
+    "llon": -2.76146,
+    "ulat": 57.163,
+    "ulon": -1.95254
+  },
+  {
+    "id": 92,
+    "name": "South Aberdeenshire",
+    "llat": 56.87282,
+    "llon": -3.80165,
+    "ulat": 57.33363,
+    "ulon": -1.91287
+  },
+  {
+    "id": 93,
+    "name": "North Aberdeenshire",
+    "llat": 57.25827,
+    "llon": -3.11006,
+    "ulat": 57.75173,
+    "ulon": -1.67167
+  },
+  {
+    "id": 94,
+    "name": "Banffshire",
+    "llat": 57.06845,
+    "llon": -3.68403,
+    "ulat": 57.7571,
+    "ulon": -2.24689
+  },
+  {
+    "id": 95,
+    "name": "Moray",
+    "llat": 57.16525,
+    "llon": -3.99727,
+    "ulat": 57.77733,
+    "ulon": -2.97934
+  },
+  {
+    "id": 96,
+    "name": "East Inverness-shire",
+    "llat": 56.77386,
+    "llon": -5.28416,
+    "ulat": 57.68333,
+    "ulon": -3.53533
+  },
+  {
+    "id": 97,
+    "name": "West Inverness-shire",
+    "llat": 56.48043,
+    "llon": -6.32883,
+    "ulat": 57.24736,
+    "ulon": -4.34806
+  },
+  {
+    "id": 98,
+    "name": "Argyllshire",
+    "llat": 55.7896,
+    "llon": -5.72785,
+    "ulat": 56.71508,
+    "ulon": -4.55985
+  },
+  {
+    "id": 99,
+    "name": "Dunbartonshire",
+    "llat": 55.88866,
+    "llon": -4.89473,
+    "ulat": 56.33192,
+    "ulon": -4.29377
+  },
+  {
+    "id": 100,
+    "name": "Clyde Isles",
+    "llat": 55.37368,
+    "llon": -5.45271,
+    "ulat": 55.93021,
+    "ulon": -4.87785
+  },
+  {
+    "id": 101,
+    "name": "Kintyre",
+    "llat": 55.22468,
+    "llon": -5.89328,
+    "ulat": 56.10127,
+    "ulon": -5.25113
+  },
+  {
+    "id": 102,
+    "name": "South Ebudes",
+    "llat": 55.52888,
+    "llon": -6.6231,
+    "ulat": 56.30014,
+    "ulon": -5.64804
+  },
+  {
+    "id": 103,
+    "name": "Mid Ebudes",
+    "llat": 56.17226,
+    "llon": -7.10516,
+    "ulat": 56.75573,
+    "ulon": -5.59891
+  },
+  {
+    "id": 104,
+    "name": "North Ebudes",
+    "llat": 56.78544,
+    "llon": -6.88159,
+    "ulat": 57.8007,
+    "ulon": -5.63063
+  },
+  {
+    "id": 105,
+    "name": "West Ross & Cromarty",
+    "llat": 57.09458,
+    "llon": -5.93411,
+    "ulat": 58.12581,
+    "ulon": -4.88332
+  },
+  {
+    "id": 106,
+    "name": "East Ross & Cromarty",
+    "llat": 57.25215,
+    "llon": -5.28679,
+    "ulat": 58.12849,
+    "ulon": -3.67791
+  },
+  {
+    "id": 107,
+    "name": "East Sutherland",
+    "llat": 57.84303,
+    "llon": -4.90622,
+    "ulat": 58.38254,
+    "ulon": -3.52837
+  },
+  {
+    "id": 108,
+    "name": "West Sutherland",
+    "llat": 57.97807,
+    "llon": -5.5264,
+    "ulat": 58.67694,
+    "ulon": -3.77371
+  },
+  {
+    "id": 109,
+    "name": "Caithness",
+    "llat": 58.09942,
+    "llon": -3.88329,
+    "ulat": 58.7326,
+    "ulon": -2.93356
+  },
+  {
+    "id": 110,
+    "name": "Outer Hebrides",
+    "llat": 56.72818,
+    "llon": -8.74315,
+    "ulat": 59.18451,
+    "ulon": -4.30483
+  },
+  {
+    "id": 111,
+    "name": "Orkney",
+    "llat": 58.62327,
+    "llon": -3.53218,
+    "ulat": 59.44425,
+    "ulon": -2.27015
+  },
+  {
+    "id": 112,
+    "name": "Shetland",
+    "llat": 59.45701,
+    "llon": -2.21664,
+    "ulat": 60.91063,
+    "ulon": -0.62358
+  },
+  {
+    "id": 113,
+    "name": "Channel Isles",
+    "llat": 48.87117,
+    "llon": -3.02112,
+    "ulat": 49.94026,
+    "ulon": -1.83467
+  },
+  {
+    "id": "H1",
+    "name": "South Kerry",
+    "llat": 51.67486,
+    "llon": -10.76999,
+    "ulat": 52.3874,
+    "ulon": -9.27401
+  },
+  {
+    "id": "H2",
+    "name": "North Kerry",
+    "llat": 51.9387,
+    "llon": -10.02922,
+    "ulat": 52.60088,
+    "ulon": -9.1185
+  },
+  {
+    "id": "H3",
+    "name": "West Cork",
+    "llat": 51.33946,
+    "llon": -10.31786,
+    "ulat": 52.07982,
+    "ulon": -8.44844
+  },
+  {
+    "id": "H4",
+    "name": "Mid-Cork",
+    "llat": 51.62547,
+    "llon": -9.27471,
+    "ulat": 52.38779,
+    "ulon": -8.21788
+  },
+  {
+    "id": "H5",
+    "name": "East Cork",
+    "llat": 51.73517,
+    "llon": -8.69539,
+    "ulat": 52.34831,
+    "ulon": -7.76938
+  },
+  {
+    "id": "H6",
+    "name": "Waterford",
+    "llat": 51.88789,
+    "llon": -8.16278,
+    "ulat": 52.3639,
+    "ulon": -6.92817
+  },
+  {
+    "id": "H7",
+    "name": "South Tipperary",
+    "llat": 52.20205,
+    "llon": -8.39234,
+    "ulat": 52.84476,
+    "ulon": -7.37209
+  },
+  {
+    "id": "H8",
+    "name": "Limerick",
+    "llat": 52.2802,
+    "llon": -9.34905,
+    "ulat": 52.7576,
+    "ulon": -8.15639
+  },
+  {
+    "id": "H9",
+    "name": "Clare",
+    "llat": 52.50458,
+    "llon": -10.02056,
+    "ulat": 53.21495,
+    "ulon": -8.28326
+  },
+  {
+    "id": "H10",
+    "name": "North Tipperary",
+    "llat": 52.4401,
+    "llon": -8.47959,
+    "ulat": 53.16762,
+    "ulon": -7.66024
+  },
+  {
+    "id": "H11",
+    "name": "Kilkenny",
+    "llat": 52.24276,
+    "llon": -7.674,
+    "ulat": 52.89394,
+    "ulon": -6.91456
+  },
+  {
+    "id": "H12",
+    "name": "Wexford",
+    "llat": 52.05884,
+    "llon": -7.01781,
+    "ulat": 52.79746,
+    "ulon": -6.05847
+  },
+  {
+    "id": "H13",
+    "name": "Carlow",
+    "llat": 52.46359,
+    "llon": -7.10794,
+    "ulat": 52.91802,
+    "ulon": -6.50494
+  },
+  {
+    "id": "H14",
+    "name": "Laois",
+    "llat": 52.7813,
+    "llon": -7.7345,
+    "ulat": 53.21569,
+    "ulon": -6.9319
+  },
+  {
+    "id": "H15",
+    "name": "South-East Galway",
+    "llat": 52.96818,
+    "llon": -9.09874,
+    "ulat": 53.34583,
+    "ulon": -7.96782
+  },
+  {
+    "id": "H16",
+    "name": "West Galway",
+    "llat": 53.17116,
+    "llon": -10.38504,
+    "ulat": 53.68501,
+    "ulon": -9.03498
+  },
+  {
+    "id": "H17",
+    "name": "North-East Galway",
+    "llat": 53.23981,
+    "llon": -9.26636,
+    "ulat": 53.71886,
+    "ulon": -8.22455
+  },
+  {
+    "id": "H18",
+    "name": "Offaly",
+    "llat": 52.84817,
+    "llon": -8.08365,
+    "ulat": 53.42427,
+    "ulon": -6.97776
+  },
+  {
+    "id": "H19",
+    "name": "Kildare",
+    "llat": 52.85752,
+    "llon": -7.16886,
+    "ulat": 53.45124,
+    "ulon": -6.46013
+  },
+  {
+    "id": "H20",
+    "name": "Wicklow",
+    "llat": 52.68198,
+    "llon": -6.79229,
+    "ulat": 53.23441,
+    "ulon": -5.91517
+  },
+  {
+    "id": "H21",
+    "name": "Dublin",
+    "llat": 53.17818,
+    "llon": -6.54689,
+    "ulat": 53.67286,
+    "ulon": -5.91135
+  },
+  {
+    "id": "H22",
+    "name": "Meath",
+    "llat": 53.38187,
+    "llon": -7.34362,
+    "ulat": 53.91768,
+    "ulon": -6.14443
+  },
+  {
+    "id": "H23",
+    "name": "Westmeath",
+    "llat": 53.31786,
+    "llon": -7.96977,
+    "ulat": 53.79906,
+    "ulon": -6.95484
+  },
+  {
+    "id": "H24",
+    "name": "Longford",
+    "llat": 53.52183,
+    "llon": -8.03834,
+    "ulat": 53.94207,
+    "ulon": -7.37492
+  },
+  {
+    "id": "H25",
+    "name": "Roscommon",
+    "llat": 53.27133,
+    "llon": -8.82368,
+    "ulat": 54.12507,
+    "ulon": -7.87588
+  },
+  {
+    "id": "H26",
+    "name": "East Mayo",
+    "llat": 53.47191,
+    "llon": -9.36326,
+    "ulat": 54.16232,
+    "ulon": -8.48808
+  },
+  {
+    "id": "H27",
+    "name": "West Mayo",
+    "llat": 53.59863,
+    "llon": -10.3575,
+    "ulat": 54.41882,
+    "ulon": -9.1094
+  },
+  {
+    "id": "H28",
+    "name": "Sligo",
+    "llat": 53.91301,
+    "llon": -9.1574,
+    "ulat": 54.52001,
+    "ulon": -8.153
+  },
+  {
+    "id": "H29",
+    "name": "Leitrim",
+    "llat": 53.80603,
+    "llon": -8.42773,
+    "ulat": 54.52063,
+    "ulon": -7.58417
+  },
+  {
+    "id": "H30",
+    "name": "Cavan",
+    "llat": 53.76555,
+    "llon": -8.05793,
+    "ulat": 54.30454,
+    "ulon": -6.76187
+  },
+  {
+    "id": "H31",
+    "name": "Louth",
+    "llat": 53.71273,
+    "llon": -6.69541,
+    "ulat": 54.11395,
+    "ulon": -6.02955
+  },
+  {
+    "id": "H32",
+    "name": "Monaghan",
+    "llat": 53.90064,
+    "llon": -7.33956,
+    "ulat": 54.42137,
+    "ulon": -6.55015
+  },
+  {
+    "id": "H33",
+    "name": "Fermanagh",
+    "llat": 54.11328,
+    "llon": -8.17751,
+    "ulat": 54.61054,
+    "ulon": -7.14152
+  },
+  {
+    "id": "H34",
+    "name": "East Donegal",
+    "llat": 54.45905,
+    "llon": -8.35807,
+    "ulat": 55.48658,
+    "ulon": -6.83615
+  },
+  {
+    "id": "H35",
+    "name": "West Donegal",
+    "llat": 54.51949,
+    "llon": -8.92055,
+    "ulat": 55.33042,
+    "ulon": -7.49508
+  },
+  {
+    "id": "H36",
+    "name": "Tyrone",
+    "llat": 54.3253,
+    "llon": -7.92077,
+    "ulat": 54.94584,
+    "ulon": -6.40659
+  },
+  {
+    "id": "H37",
+    "name": "Armagh",
+    "llat": 54.03646,
+    "llon": -6.87804,
+    "ulat": 54.56754,
+    "ulon": -6.29086
+  },
+  {
+    "id": "H38",
+    "name": "Down",
+    "llat": 53.97684,
+    "llon": -6.40037,
+    "ulat": 54.74909,
+    "ulon": -5.34175
+  },
+  {
+    "id": "H39",
+    "name": "Antrim",
+    "llat": 54.47728,
+    "llon": -6.73304,
+    "ulat": 55.36298,
+    "ulon": -5.60182
+  },
+  {
+    "id": "H40",
+    "name": "Londonderry",
+    "llat": 54.62827,
+    "llon": -7.39209,
+    "ulat": 55.24107,
+    "ulon": -6.45704
+  }
+]

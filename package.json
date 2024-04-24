@@ -1,0 +1,43 @@
+{
+	"name": "explorer",
+	"private": true,
+	"version": "0.2.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "tsc --project tsconfig.build.json && vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"@heroicons/react": "^2.0.18",
+		"@material-tailwind/react": "2.1.9",
+		"brc-atlas-bigr": "^2.4.0",
+		"chart.js": "^4.4.1",
+		"leaflet": "^1.9.4",
+		"proj4": "^2.9.2",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"react-grid-gallery": "^1.0.1-alpha.0",
+		"swr": "^2.2.4",
+		"yet-another-react-lightbox": "^3.15.6",
+		"zod": "^3.22.4"
+	},
+	"devDependencies": {
+		"@testing-library/react": "^14.1.2",
+		"@types/geojson": "^7946.0.13",
+		"@types/leaflet": "^1.9.8",
+		"@types/node": "^20.10.4",
+		"@types/proj4": "^2.5.5",
+		"@types/react": "18.2.42",
+		"@types/react-dom": "^18.2.17",
+		"@vitejs/plugin-react": "^4.2.1",
+		"autoprefixer": "10.4.14",
+		"postcss": "8.4.24",
+		"rollup-plugin-visualizer": "^5.12.0",
+		"tailwindcss": "3.3.2",
+		"ts-node": "^10.9.2",
+		"typescript": "4.6.4",
+		"vite": "3.1.0",
+		"vite-plugin-dts": "^3.9.0"
+	}
+}
