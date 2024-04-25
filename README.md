@@ -18,7 +18,7 @@ const exploreElem = React.createElement(explorePage, {
   filterGroups: ['birds'],
   filterFamilies: undefined,
   tabNames: ['explore', 'overview', 'charts', 'gallery','names', 'classification', 'literature', 'sequences', 'data']
-}											)
+});
 root.render(exploreElem);
 ```
 
