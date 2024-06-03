@@ -52,10 +52,8 @@ export default function ExploreLocate(props: IExploreLocate): JSX.Element {
                   vice-county
                 </a><span> {vc}</span></> : ''}
           </p>
-          <hr />
         </div>
         <SearchRadius checked={useSquare} setRadius={setRadius} setUseSquare={setUseSquare}/>
-        <hr />
       </div>
     </>
     );

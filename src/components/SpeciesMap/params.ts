@@ -479,9 +479,11 @@ export class Params {
         let queryUrl: string;
         // Are we in explore mode or TVK mode?...
         if (this.explore) {
+            /*
             if (this.explore.groupName.length === 0 && this.explore.speciesName.length === 0) {
                 return '';
             }
+            */
             // Handle unique case of 'ALL_SPECIES'.
             const groupName = (this.explore.groupName === 'ALL_SPECIES' || this.explore.groupName ==='') ?
                                  '*' : this.explore.groupName;
@@ -553,16 +555,11 @@ export class Params {
      */
     getWmsLayerPoint(confirmed: boolean, fill: string = Colour.yellow): L.TileLayer.WMS {
 
-        // const url = `https://records-ws.nbnatlas.org/ogc/wms/reflect?q=*:*&fq=lsid:${this.tvk}&fq=occurrence_status:present` ;
         const url = this.getPointUrl();
         const qryNeg = '("Unconfirmed" OR "Unconfirmed - plausible" OR "Unconfirmed - not reviewed")';
         const qryPos = '("Accepted" OR "Accepted - considered correct" OR "Accepted - correct" OR "verified")';
-        // const envNeg = `size:6;opacity:0.8;color:${fill}`;
-        // const envPos = `size:6;opacity:0.8;color:${fill}`;
         const envNeg = `size:${this.pointSize};opacity:0.8;color:${fill}`;
         const envPos = `size:${this.pointSize};opacity:0.8;color:${fill}`;
-        // const envNeg = `name:circle;size:4;opacity:0.8;color:${fill}`;
-        // const envPos = `name:circle;size:4;opacity:0.8;color:${fill}`;
         const qry = '&fq=identification_verification_status:' + (confirmed ? qryPos : qryNeg);
         const env = '&OUTLINE=false&ENV=' + (confirmed ? envPos : envNeg);
 
@@ -573,7 +570,6 @@ export class Params {
             format: 'image/png',
             uppercase: true,        
         });	 
-
         return tileLayer;      
     }
     // -------------------------------------------------------------------------
@@ -633,12 +629,6 @@ export class Params {
             // Show all data in a single layer
             wmsLayers[this.tvk] = this.getWmsLayer('', this.b0fill);
         }
-        /*
-        if (this.showVCs()) {
-            wmsLayers['VCs'] = this.getWmsLayerNative('ALA:County_Coastal_Terrestrial_region_NOV2020');
-
-        }
-        */
         return wmsLayers;
     }
     // -------------------------------------------------------------------------

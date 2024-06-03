@@ -46,11 +46,11 @@ export type TTabNames = Array<TTabName>;
 export function TabBar({ tabs }: ITabBarProps): React.JSX.Element {
     
   const [activeTab, setActiveTab] = useState<string>(tabs[0].id);
-  
+
   return (
     <>
       <Tabs value={activeTab}>
-          <TabsHeader className='overflow-x-auto border-b-2 bg-transparent'
+          <TabsHeader className='overflow-x-auto bg-transparent'
             placeholder=''
             indicatorProps={{
               className:
@@ -70,7 +70,7 @@ export function TabBar({ tabs }: ITabBarProps): React.JSX.Element {
           </TabsHeader>
           <TabsBody placeholder=''>
             {tabs.map((tab, index) => (
-              <TabPanel key={index} value={tab.id}>
+              <TabPanel key={index} value={tab.id} >
                 {tab.component}
               </TabPanel>
             ))}

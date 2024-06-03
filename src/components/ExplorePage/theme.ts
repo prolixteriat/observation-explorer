@@ -12,14 +12,21 @@ const defaultTheme: object = {
           color: 'text-gray-900',
           fontWeight: 'font-normal',
         },
-
       },
     },
   },
 
   tabsHeader: {
     defaultProps: {
-      className: "flex-wrap",
+      className: 'flex-wrap',
+    },
+  },
+
+  tabPanel: {
+    styles: {
+      base: {        
+        p: 'p-0',
+      },
     },
   },
 
@@ -28,7 +35,7 @@ const defaultTheme: object = {
       base: {
         tab: {
           initial: {
-            width: "w-28",
+            width: 'w-28',
           },
         },
 

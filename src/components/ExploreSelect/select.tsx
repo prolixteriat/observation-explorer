@@ -44,7 +44,7 @@ export function ExploreMap(props: IExploreMap): React.JSX.Element {
 
     return (
         <>
-        <div className='px-4'>
+        <div className='px-2'>
             <SpeciesMap search={props} 
                         h={'400'} 
                         w={'400'}
@@ -141,7 +141,7 @@ export function GroupsTable(props: IGroupsTable): React.JSX.Element {
         <thead className='border-b-4'>
           <tr className='bg-blue-50'>
             <th className='text-left px-2'>Group</th>
-            <th className='text-right px-2 flex items-center'>Species Count
+            <th className='text-right px-2 flex items-center w-16'>Species Count
             <ExploreTableTooltip isSpecies={true} />
             </th>
           </tr>
